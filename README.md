@@ -1,1 +1,1 @@
-Code file used for Crude to Gas ratio trade for stocktrack project
+All Code used for the FNCE 443 Stock Track Project. 
